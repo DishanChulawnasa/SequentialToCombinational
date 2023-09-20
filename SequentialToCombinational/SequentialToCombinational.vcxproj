@@ -127,21 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Desktop\Seq_to_Comb\appendAndRemove.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Seq_to_Comb\extractCombinational.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Seq_to_Comb\extractModuleName.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Seq_to_Comb\extractVerilogNames.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Seq_to_Comb\removeCommon.cpp" />
     <ClCompile Include="..\..\..\..\Desktop\Seq_to_Comb\seq_to_comb2.cpp" />
-    <ClCompile Include="..\..\..\..\Desktop\Seq_to_Comb\writeVerilogModule.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\..\..\Desktop\Seq_to_Comb\appendAndRemove.hpp" />
-    <ClInclude Include="..\..\..\..\Desktop\Seq_to_Comb\extractCombinational.hpp" />
-    <ClInclude Include="..\..\..\..\Desktop\Seq_to_Comb\extractModuleName.hpp" />
-    <ClInclude Include="..\..\..\..\Desktop\Seq_to_Comb\extractVerilogNames.hpp" />
-    <ClInclude Include="..\..\..\..\Desktop\Seq_to_Comb\removeCommon.hpp" />
-    <ClInclude Include="..\..\..\..\Desktop\Seq_to_Comb\writeVerilogModule.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
